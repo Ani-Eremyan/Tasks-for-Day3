@@ -1,0 +1,12 @@
+.p {
+    background-color: rgb(198, 231, 220);
+    font-style: italic;
+    font-size: large;
+    color: blue;
+    padding: 10px;
+}
+.button {
+    background-color: rgb(170, 220, 204);
+    padding: 10px 20px;
+    cursor: pointer;
+}
