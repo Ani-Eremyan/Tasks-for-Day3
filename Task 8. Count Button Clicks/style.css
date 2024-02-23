@@ -1,0 +1,19 @@
+.button {
+    background-color: rgb(84, 81, 81);
+    color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+}
+.button:hover{
+    background-color: rgb(42, 40, 40);
+}
+
+#displayText {
+    color: green;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    margin-top: 10px; 
+}
